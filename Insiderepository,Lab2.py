@@ -48,6 +48,9 @@ display.show()
 
 spark.stop()
 
+#by John Erick M. Camota
+#BSIT-3A
+
 
 
 
